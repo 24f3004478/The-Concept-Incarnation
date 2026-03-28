@@ -1,0 +1,8 @@
+{
+  "prompt": "Photorealistic close-up of a cluttered woodworker's bench in a dimly lit workshop, dusty plaster relief sculpture perfectly molded to capture every unique blemish and irregular contour of four gnarled apples placed snugly within its indentations, a fifth pristine smooth apple resting nearby that visibly cannot fit into any recess—too perfectly curved for the warped mold, soft golden hour light casting realistic shadows on wood grain and fruit textures, hyper-detailed, no text, no diagrams, cinematic depth of field, 8k.
+--no graphs, labels, icons, floating elements, cartoons, people, tools, annotations, glowing effects, abstract shapes
+",
+  "model": "Stable Diffusion 3",
+  "concept": "overfitting",
+  "metaphor": "Plaster mold hugs training apples' every flaw perfectly but rejects pristine new apple, showing memorized noise vs. true pattern."
+}
